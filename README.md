@@ -31,8 +31,8 @@ I'm Rodrigo, a Fronted Web Developer based in 🌴Barcelona🌴
 ## GitHub Stats
 
 <div align="center">
- <img align="center" height="300" src="https://github-readme-stats.vercel.app/api?username=rodrigolapidus&show_icons=true&locale=en&hide=issues" alt="Rodrigo Lapidus Github Stats" />
- <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolapidus&layout=compact" alt="Rodrigo Lapidus Programming Language Stats" />
+ <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=rodrigolapidus&show_icons=true&locale=en&hide=issues" alt="Rodrigo Lapidus Github Stats" />
+ <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolapidus&layout=compact" alt="Rodrigo Lapidus Programming Language Stats" />
 </div>
 
 ## About me
