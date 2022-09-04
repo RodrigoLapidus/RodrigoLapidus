@@ -22,11 +22,10 @@ I'm Rodrigo, a Fronted Web Developer based in 🌴Barcelona🌴
 
 - 🌱 I’m currently learning Nuxt 3
 - 📫 How to reach me: ![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-- 📫 How to reach me: <p align="center"><a href=# target="blank"><img
-      align="center"
+- 📫 How to reach me: <a href=# target="blank"><img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Linkedin Rodrigo Lopez"
-      width="24"/></a>&nbsp;</p>
+      width="24"/></a>
 - ⚡ Fun fact: I am a passionate hiker 🏕️
 
 <!--
