@@ -2,6 +2,14 @@
 
 I'm Rodrigo, a Fronted Web Developer based in 🌴Barcelona🌴
 
+
+- 🔭 I’m currently working on a weather webapp
+- 📫 How to reach me:  <a href=# target="blank"><img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Linkedin Rodrigo Lopez"
+      width="16"/></a>
+- ⚡ Fun fact: I am a passionate hiker 🏕️
+
 ## Tech Stack
 
 <div align="center">
@@ -19,6 +27,10 @@ I'm Rodrigo, a Fronted Web Developer based in 🌴Barcelona🌴
 
 
 </div>
+
+## GitHub Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigolapidus&show_icons=true&locale=en" alt="Rodrigo Lapidus Github Stats" /></p>
 
 ## About me
 
