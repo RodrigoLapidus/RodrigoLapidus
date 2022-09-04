@@ -4,7 +4,7 @@ I'm Rodrigo, a Fronted Web Developer based in 🌴Barcelona🌴
 
 
 - 🔭 I’m currently working on a weather webapp
-- 📫 How to reach me:  <a href=# target="blank"><img
+- 📫 How to reach me: &nbsp;<a href=# target="blank"><img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Linkedin Rodrigo Lopez"
       width="16"/></a>
@@ -35,14 +35,12 @@ I'm Rodrigo, a Fronted Web Developer based in 🌴Barcelona🌴
  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolapidus&layout=compact" alt="Rodrigo Lapidus Programming Language Stats" />
 </div>
 
-## About me
+<br>
 
-- 🔭 I’m currently working on a weather webapp
-- 📫 How to reach me:  <a href=# target="blank"><img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Linkedin Rodrigo Lopez"
-      width="16"/></a>
-- ⚡ Fun fact: I am a passionate hiker 🏕️
+<p align="center">
+  <img src="https://page-views.glitch.me/badge?page_id=rodrigolapidus.visitor-badge" alt="Visitors to Rodrigo's Github Profile">
+  <img src="https://komarev.com/ghpvc/?username=RodrigoLapidus" alt="Profile viewes">
+</p>
 
 <!--
 **RodrigoLapidus/RodrigoLapidus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
