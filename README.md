@@ -24,7 +24,7 @@ I'm Rodrigo, a Fronted Web Developer based in 🌴Barcelona🌴
 - 📫 How to reach me: <a href=# target="blank"><img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Linkedin Rodrigo Lopez"
-      width="12"/></a>
+      width="18"/></a>
 - ⚡ Fun fact: I am a passionate hiker 🏕️
 
 <!--
