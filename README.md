@@ -39,7 +39,6 @@ I'm Rodrigo, a Fronted Web Developer based in 🌴Barcelona🌴
 
 <p align="center">
   <img src="https://page-views.glitch.me/badge?page_id=rodrigolapidus.visitor-badge" alt="Visitors to Rodrigo's Github Profile">
-  <img src="https://komarev.com/ghpvc/?username=RodrigoLapidus" alt="Profile viewes">
 </p>
 
 <!--
