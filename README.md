@@ -21,7 +21,7 @@ I'm Rodrigo, a Fronted Web Developer based in 🌴Barcelona🌴
 </div>
 
 - 🌱 I’m currently learning Nuxt 3
-- 📫 How to reach me: [!linkedin(https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
+- 📫 How to reach me: ![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 - ⚡ Fun fact: I am a passionate hiker 🏕️
 
 <!--
