@@ -4,7 +4,7 @@ I'm Rodrigo, a Fronted Web Developer based in 🌴Barcelona🌴
 
 
 - 🔭 I’m currently working on a weather webapp
-- 📫 Reach out to me on Linkedin &nbsp;<a href=# target="blank"><img align="end"
+- 📫 Reach out to me on Linkedin &nbsp;<a href="https://www.linkedin.com/in/rodrigo-lopez-1a72b624b/" target="blank"><img align="end"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Linkedin Rodrigo Lopez"
       width="16"/></a>
