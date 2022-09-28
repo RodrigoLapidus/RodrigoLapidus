@@ -23,7 +23,7 @@ I'm Rodrigo, a Fronted Web Developer based in 🌴Barcelona🌴
    <img width="30" alt="Supabase" src="https://user-images.githubusercontent.com/93733677/187199611-72d12457-21a3-4b54-94a7-52fa253863bb.svg"> &nbsp;
    <img width="30" alt="Firebase" src="https://user-images.githubusercontent.com/93733677/175830776-40246b35-2674-4df7-a50f-89f926d6d45c.png"> &nbsp;
    <img width="32" alt="Git" src="https://user-images.githubusercontent.com/93733677/175831079-ee53a463-836d-48c0-91da-d0fb3eb5a491.png"> &nbsp;
-   <img width="30" alt="VisualStudio Code" src="https://user-images.githubusercontent.com/93733677/175830790-1e53af26-bff0-42da-8735-20b6030accb7.png"> &nbsp;
+   <img width="30" alt="VisualStudio Code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> &nbsp;
 
 
 </div>
